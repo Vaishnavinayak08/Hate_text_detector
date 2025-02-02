@@ -1,52 +1,97 @@
 text,label
-The campus is really beautiful and well-maintained.,Positive
-The staff is incredibly rude and unhelpful.,Negative
-I love the library facilities; they are amazing!,Positive
-The cafeteria hygiene is poor and unacceptable.,Negative
+
+"The campus is really beautiful and well-maintained.",Positive
+"The staff is incredibly rude and unhelpful.",Negative
+"I love the library facilities; they are amazing!",Positive
+"The cafeteria hygiene is poor and unacceptable.",Negative
 "Fuck this system, nothing ever works here.",Negative
-The teachers are approachable and very supportive.,Positive
-Classrooms are overcrowded and uncomfortable.,Negative
-The infrastructure is state-of-the-art and modern.,Positive
-"Management never listens to complaints, total crap.",Negative
-Extracurricular activities are engaging and fun.,Positive
-The sports facilities are well-equipped and accessible.,Positive
-"This place sucks, and the administration is shit.",Negative
-Teachers often go out of their way to help students.,Positive
-Bitchy management doesn't care about student issues.,Negative
-Hostel rooms are spacious and well-maintained.,Positive
-"The Wi-Fi never works properly, useless!",Negative
-I appreciate the efforts to organize cultural events.,Positive
-Total waste of money; this institution is horrible.,Negative
-The placement opportunities here are outstanding.,Positive
-"No one cares about student feedback, utterly useless.",Negative
-The teachers always inspire us to do better.,Positive
-BVC classes are always boring and pointless.,Negative
-"Labs are well-equipped, and the lab assistants are helpful.",Positive
-The campus security is inadequate and poorly managed.,Negative
-The orientation program was very well-organized.,Positive
-Nothing gets fixed here unless you bribe someone.,Negative
-The counseling services have been very supportive.,Positive
-The faculty doesn’t even care about attending classes.,Negative
-Workshops and seminars are very informative.,Positive
-The admin office is a nightmare to deal with.,Negative
-I feel welcomed and valued as a student here.,Positive
-Exams are conducted in a very disorganized manner.,Negative
-Hostel food quality has improved significantly.,Positive
-The toilets are always dirty and smelly.,Negative
-The professors are highly knowledgeable and skilled.,Positive
-The library staff is unhelpful and rude.,Negative
-The campus is eco-friendly with lots of greenery.,Positive
-Canteen prices are too high for the quality offered.,Negative
-I had a great experience with the internship programs.,Positive
-The lab equipment is outdated and rarely functional.,Negative
-Workshops are really engaging and insightful.,Positive
-The canteen serves stale and unhygienic food.,Negative
-Student life here is vibrant and full of opportunities.,Positive
-Nothing is ever on time; the schedules are terrible.,Negative
-The peer learning environment is very encouraging.,Positive
-Faculty are too strict and don't understand students.,Negative
-The sports coaching staff is excellent and supportive.,Positive
-The administration doesn't care about our concerns.,Negative
-The study resources provided are very helpful.,Positive
-The event management team is highly inefficient.,Negative
-The atmosphere on campus is very inspiring.,Positive
+"The teachers are approachable and very supportive.",Positive
+"Classrooms are overcrowded and uncomfortable.",Negative
+"The infrastructure is state-of-the-art and modern.",Positive
+"Some students here are so stupid, they don’t deserve to be in college.",Negative
+"Why do we have to listen to these foreign professors who barely speak English?",Negative
+"People from other countries are so backward, they have no place here.",Negative
+"I can't believe how lazy some of these students are. They should be expelled.",Negative
+"Some professors are just too old and irrelevant, they should retire.",Negative
+"How do people from certain countries even manage to get into this university?",Negative
+"This campus is full of idiots who don’t understand anything.",Negative
+"People with different sexual orientations shouldn’t be allowed in this institution.",Negative
+"Why are we forced to listen to these teachers who clearly don’t know anything?",Negative
+"Some girls in this college are just too attention-seeking.",Negative
+"The principal is a total joke, he doesn't know what he's doing.",Negative
+"The campus is full of lazy students who think everything should be handed to them.",Negative
+"I hate the fact that there are so many international students here. It's overwhelming.",Negative
+"Some people from other cultures are so disrespectful; they don’t belong here.",Negative
+"The administration only cares about rich students, it's disgusting.",Negative
+"The university is full of people who can’t even speak proper English.",Negative
+"I don't want to sit next to these people who don’t even know the basics.",Negative
+"The campus is ruined by people from backward countries who have no sense of modernity.",Negative
+"Why are people from other countries even allowed in the university?",Negative
+"I’m tired of these religious groups trying to push their beliefs on everyone.",Negative
+"I can't stand people who think they're superior because of their religion.",Negative
+"Why do we have so many people from third-world countries? They slow everything down.",Negative
+"People who support feminism are just looking for attention.",Negative
+"Why do we have to tolerate people who have such primitive beliefs?",Negative
+"I’m sick of these people who don’t even know how to behave in public.",Negative
+"Why are there so many people with disabilities here? They shouldn’t be in college.",Negative
+"Some professors are just too lenient, they should stop pampering students.",Negative
+"Certain people just don’t belong here, they don’t even understand what’s going on.",Negative
+"Why are people who don’t believe in democracy allowed to study here?",Negative
+"I don’t know why we’re tolerating people from other countries who can't contribute anything.",Negative
+"Some students just need to stop complaining and get to work.",Negative
+"I’m tired of the constant whining from people who think they deserve special treatment.",Negative
+"People who come from poverty should not be allowed to study here, it’s unfair.",Negative
+"Why do we allow people from certain backgrounds to even attend this institution?",Negative
+"I don't want to hear any more complaints from people who clearly don’t belong here.",Negative
+"Some people are so weak-minded, they should just drop out.",Negative
+"Why are students with different sexual orientations given so much importance?",Negative
+"I can't stand people who think they’re too good for this university.",Negative
+"The professors in this college are all useless, they can’t teach anything.",Negative
+"Why are we tolerating students who can’t even speak properly?",Negative
+"Some students from other cultures just don't get it, they are not fit for higher education.",Negative
+"I don’t understand why people are allowed to practice their religion in this institution.",Negative
+"The campus would be much better without these people from other countries.",Negative
+"I can’t stand these people who think they deserve special treatment because of their race.",Negative
+"People who make fun of the teachers should be expelled immediately.",Negative
+"The people in the administration are completely useless, they never help anyone.",Negative
+"The international students should stop trying to fit in, they just make things worse.",Negative
+"People should not be allowed to speak their native language in public spaces.",Negative
+"The college has become a place for people who are clearly not qualified enough.",Negative
+"Some students think they’re superior because they’re from a rich background.",Negative
+"The institution’s policies are completely biased towards certain groups.",Negative
+"I don’t understand why we’re wasting resources on people who don't even belong here.",Negative
+"Why do we have so many people from other countries who can't contribute anything meaningful?",Negative
+"The campus is full of lazy people who don't even care about their education.",Negative
+"Certain religious groups should not be allowed to preach in public spaces on campus.",Negative
+"Students with disabilities should just take a break and stop taking up valuable resources.",Negative
+"Some students need to stop playing the victim card and get over it.",Negative
+"The university is just filled with entitled people who think they’re above everyone else.",Negative
+"I don’t understand why we have to cater to people who think they deserve special treatment.",Negative
+"Why do we allow people from certain countries to influence our way of thinking?",Negative
+"I hate the fact that the professors never discipline the lazy students.",Negative
+"The student council is full of people who only care about their own interests.",Negative
+"Why are students from certain countries even allowed to represent the university?",Negative
+"The university should stop wasting money on international students who don’t contribute anything.",Negative
+"The teachers should stop being so lenient towards students who don’t respect authority.",Negative
+"I’m tired of hearing about people who feel offended over everything.",Negative
+"Why do some students think they’re so special just because they have different backgrounds?",Negative
+"The campus is filled with people who just don’t understand the importance of education.",Negative
+"I hate how some students are given preference because of their gender or background.",Negative
+"Some students here are so obnoxious, they should be kicked out immediately.",Negative
+"Why are we tolerating people who constantly complain about every little thing?",Negative
+"Students with a different sexual orientation shouldn’t be so vocal about their beliefs.",Negative
+"The campus would be better if certain types of students just left.",Negative
+"People who don't respect the rules of the university should be expelled immediately.",Negative
+"Why are we letting people from other countries affect the university’s reputation?",Negative
+"Some students should be expelled for their disrespectful behavior toward professors.",Negative
+"The university is full of students who just don’t care about their education.",Negative
+"Why are there so many people who can’t even communicate properly in English?",Negative
+"Certain students think they’re above everyone else just because of their religion.",Negative
+"The university should stop accepting students from countries with no educational standards.",Negative
+"People who spread hate speech on campus should be kicked out immediately.",Negative
+"Students with disabilities are just a burden on the system and should not be here.",Negative
+"Why is this university allowing people who clearly don’t understand basic human decency?",Negative
+"People who spread rumors and hate should be banned from campus for good.",Negative
+"The institution is a joke because it tolerates so many disrespectful people.",Negative
+"i hate this XYZ person",Negative
+

@@ -1,13 +1,13 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, accuracy_score
+from sklearn.linear_model import LogisticRegression
 import pickle
 
 # Load data
-df = pd.read_csv('institution_feedback_dataset.csv')  # Replace with your actual data path
+df = pd.read_csv(r'D:\hate_detect\data\institution_feedback_dataset.csv')  # Corrected path
 
 # Preprocessing
 X = df['text']  # Replace with your actual text column
@@ -26,22 +26,19 @@ label_encoder = LabelEncoder()
 y_train_encoded = label_encoder.fit_transform(y_train)
 y_test_encoded = label_encoder.transform(y_test)
 
-# Train Naive Bayes model
-model = MultinomialNB()
+# Train a machine learning model(Logical Regression model)
+model = LogisticRegression()
 model.fit(X_train_vec, y_train_encoded)
 
-# Make predictions
+# Evaluate the model
 y_pred = model.predict(X_test_vec)
+print("Accuracy:", accuracy_score(y_test_encoded, y_pred))
+print("Classification Report:\n", classification_report(y_test_encoded, y_pred))
 
-# Print classification report
-print(classification_report(y_test_encoded, y_pred))
-
-# Save the model and the label encoder
-with open('models/model.pkl', 'wb') as model_file:
+# Save the model and vectorizer
+with open(r'D:\hate_detect\model\hate_text_model.pkl', 'wb') as model_file:
     pickle.dump(model, model_file)
-
-with open('models/vectorizer.pkl', 'wb') as vectorizer_file:
+with open(r'D:\hate_detect\model\vectorizer.pkl', 'wb') as vectorizer_file:
     pickle.dump(vectorizer, vectorizer_file)
-
-with open('models/label_encoder.pkl', 'wb') as encoder_file:
-    pickle.dump(label_encoder, encoder_file)
+with open(r'D:\hate_detect\model\label_encoder.pkl', 'wb') as label_encoder_file:
+    pickle.dump(label_encoder, label_encoder_file)
